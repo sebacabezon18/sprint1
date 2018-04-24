@@ -1,43 +1,45 @@
 Sprint #1
 
-Decidimos definir un e-commerce de venta de Ropa de Moda titulado Savona. 
+Decidimos definir un e-commerce que vende ropa de mujer de una marca llamada Savona.
 
-El sitio esta conceptualizado de forma simple para el facil manejo del potencial usuario-comprador, 
-pero a su vez tiene un entorno gr·fico atractivo y elegante.
- 
-Consta de 4 secciones, por el momento, una de ellas es HOME(index.html) - 
-lOG IN del usuario(inicio.html) Imagen Candado en la parte superior, En el 
-caso de que sea un nuevo usuario deber· regsitrarse en la secciÛn (newacc.html).
-Y por ˙ltimo est· la secciÛn de preguntas frecuentes (pregs.html) al menos cuenta con 8 preguntas f·ciles de acceso al sitio.
-***Todos los archivos est·n enlazados y conectados entre si
-Adem·s tiene los links a Redes Sociales.
+El sitio est√° conceptualizado de forma simple para el f√°cil manejo del potencial usuario-comprador,
+pero a su vez tiene un entorno gr√°fico atractivo y elegante.
 
-en el Nav Men˙ de navegaciÛn tiene el HOME serÌa el index.html - SALE Donde mas adelante se desarrollar· la secciÛn de compras con carrito - 
-Otra secciÛn donde habla de ROPA en general para la mujer ?? - y por ultimo el link de CONTACTO donde se podr·n facilmente enviar un mensaje a los dueÒos 
-de la web.
+Consta de 4 secciones, por el momento, una de ellas es HOME(index.html) -
+lOG IN del usuario(inicio.html) en la parte superior, en el
+caso de que sea un nuevo usuario deber√≠a registrarse en la secci√≥n (newacc.html).
+Por √∫ltimo, est√° la secci√≥n de preguntas frecuentes (pregs.html) que cuenta con 8 preguntas simples de acceso al sitio.
+***Todos los archivos est√°n enlazados y conectados entre s√≠
+Con la posibilidad de acceder a distintas redes sociales.
+
+Como Nav hay un Men√∫ de navegaci√≥n que tiene:
+Home: Donde se presenta la p√°gina.
+Ropa: Donde se encuentran las prendas para comprar.
+Sale: Donde se encuentran las prendas en oferta.
+Contacto: Para consultar dudas con la marca.
 
 
-**Se tiene que poder navegar de pagina en pagina. sin que marque error 4xx
+
+El usuario debe poder navegar de p√°gina en pagina sin errores (sin que ocurra un error 4xx)
 
 
-newacc.html	 Datos de los input				
-	
+Datos de los input :			
+
 ??
-	Datos tipicos: 
+newacc.html
+	Datos tipicos:
 	*Primer Nombre
 	*Primer Apellido
 	*Direccion de mail
 	*Contrasenia
-	*Confirmar contrasenia
+	*Confirmar contrase√±a
 ??
 inicio.html datos de los input
 
 	Datos de ingreso para usuarios:
 	*Direccion de mail
 	*Contrasenia
-	*olvido su ContraseÒa
+	*olvido su Contrase√±a
 
 
-El estilo del sitio est· normalizado en las 4 secciones mediante el uso de Css adem·s de ser responsive. Enlaza a mobile.css tablet.css y Desktop.css
-
-
+El estilo del sitio est√° normalizado en las 4 secciones mediante el uso de Css y es responsive, enlazando: mobile.css, tablet.css y Desktop.css
