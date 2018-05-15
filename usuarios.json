@@ -1,0 +1,25 @@
+{
+    "usuarios": [
+        {
+            "nombre": "seba",
+            "email": "seba@emba",
+            "password": "$2y$10$HzeEjULy8ihO\/qnp6VNTZe523AURe7yJJzQZcNZrEBEMZseul7gZy",
+            "id": 1,
+            "imagen": ".\/imgs\/avatar\/perfil_1526072403.jpg"
+        },
+        {
+            "nombre": "Ignacio Tanoira",
+            "email": "itanoira72@gmail.com",
+            "password": "$2y$10$pG0NBz\/Kqx.oOKoQFrYe8OHRLktVorcnek38u4dxbQ64IzGlQZr4e",
+            "id": 2,
+            "imagen": ".\/imgs\/avatar\/perfil_1526076183.jpg"
+        },
+        {
+            "nombre": "seba3",
+            "email": "seba3@gmail.com",
+            "password": "$2y$10$PAGcQrtW5RsAXjm6O3Rtr.1S.BDOvmqv30xvV86PA5ntNqhQs4UbC",
+            "id": 3,
+            "imagen": ".\/imgs\/avatar\/perfil_1526422529.jpg"
+        }
+    ]
+}

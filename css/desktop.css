@@ -72,8 +72,10 @@ header .busqueda label {
       display: none;
 }
 
-form label {
-
+form  {
+  margin: 0px;
+  background-color: white;
+  padding: 0px;
 }
 
 nav ul li{
@@ -169,4 +171,11 @@ div .aceptar {
   height: 15px;
   margin-top: 10px;
 }  
+}
+footer{
+  clear:both;
+}
+nav {
+  padding-bottom: 20px;
+
 }
